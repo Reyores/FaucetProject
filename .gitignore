@@ -1,0 +1,5 @@
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+*.log
+dependency-reduced-pom.xml
