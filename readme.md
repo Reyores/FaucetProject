@@ -1,3 +1,5 @@
+ROYER ALEXANDRE
+
 🚰 Polygon Native POL Faucet API
 
 Ce projet permet de fournir automatiquement une petite quantité de MATIC (POL natif) sur le testnet Polygon Amoy à une adresse spécifiée via une API REST.
